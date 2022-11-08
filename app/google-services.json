@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "712069821871",
+    "firebase_url": "https://work-d64d9-default-rtdb.firebaseio.com",
+    "project_id": "work-d64d9",
+    "storage_bucket": "work-d64d9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:712069821871:android:f94c5c606aa9b2d41b2b5a",
+        "android_client_info": {
+          "package_name": "com.example.work1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "712069821871-qq5dto3lqdjijulkovkheda9mjv3v9sa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA63js2zoVSC9m9umZDHIz4NG7DvOhBZ5s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "712069821871-qq5dto3lqdjijulkovkheda9mjv3v9sa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
